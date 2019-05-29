@@ -2,5 +2,8 @@ import ujson
 import time
 import MQTT
 import machine
-
-print('......add from python....')
+print('**************when you feel unhappy*************')
+print('**************look at the sky*************')
+print('**************the sun is shining*************')
+print('**************the birds are singing*************')
+print('**************and you,should be smiling*************')
